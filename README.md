@@ -7,4 +7,4 @@ The point of this repo is to serve as a reminder for myself of the basics of lua
 
 > *psst... you weren't supposed to find this 🤫*
 
-~~*don't tell anyone... 🤫*~~
+<sub><i>psst... a little secret 🤫</i></sub>
